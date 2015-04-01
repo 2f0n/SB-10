@@ -17,11 +17,13 @@ and immigrants as self-sufficient individuals and families in the economic, soci
 Massachusetts. The Director of ORI isthe state refugee coordinator designated pursuant to the federal
 Refugee Act of1980 as the state officialwith primary responsibility for the coordination of public and
 private resources in refugee resettlement.
+
 > (1) The Refugee Act of1980, Chapter 2 of Title IV of the Immigration and Nationality Act (8 USC
 1521 et seq.) established the federal Refugee Resettlement Program. 8 USC 1521 et seq. authorizes
 funds for the administration and implementation of social and educationalservices, employment training
 and placement, and cash and medical assistance for refugees. 8 USC 1521 et seq. is intended to
 promote the resettlement and economic self-sufficiency of refugees within the shortest time possible.
+
 > (2) An amendment to 8 USC 1521 et seq. authorized the Secretary of the United States Department
 of Health and Human Services to approve alternative programs "...under which refugees are provided
 interim support, medical services, support services, and case management, as needed, in a manner that
@@ -29,6 +31,7 @@ encourages self-sufficiency, reduces welfare dependency, and fosters greater coo
 resettlement agencies and service providers." Section 412(e)(7) of the Immigrationand NationalityAct,
 8 U.S.C. 1522(e)(7). The Massachusetts Refugee Resettlement Program (MRRP) is such an
 alternative program.
+
 > (3) The primary purpose of MRRP is to assist refugees to achieve durable self-sufficiency. It seeks
 to accomplish this purpose by emphasizing coordination of services, early employment and postemployment
 services.
