@@ -43,34 +43,38 @@ Eighty percent of these children are native born United States
 citizens who stand to benefit from increased family stability and
 economic security.
 #### (b)
+Between federal fiscal years 1983 and 2013, over 492 thousand
+individuals have been resettled in California as refugees and
+asylees.
+#### (c)
 President Obama has recently decided to employ executive
 action to expand deferred action on millions of Americans. This
 population will need assistance with accessing resources and
 completing the requisite applications for deferred action.
-#### (c)
+#### (d)
 California, which has the largest undocumented population in
 the nation, has more to gain from immigration reform than any other
 state. California's future depends on our ability to successfully
 integrate immigrants, regardless of their immigration status, into
 the economic, social, and political fabric.
-#### (d)
+#### (e)
 One in 11 workers is an undocumented immigrant. Legalization
 will allow undocumented immigrants to join the formal economy and
 increase their economic contributions. Studies show that immigrants
 are better off, by almost any economic measure, after gaining legal
 status and citizenship. And what is good for California's
 undocumented residents is good for the state.
-#### (e)
+#### (f)
 Immigrant workers are important to our state's economy.
 Studies show that immigrant workers contribute about 31 percent of
 California's gross domestic product (GDP). Undocumented immigrants in
 our state contribute about $130 billion of California's GDP, which
 is a figure greater than the entire GDP of the state of Nevada.
-#### (f)
+#### (g)
 Immigrant households also make up 27 percent of the total
 household income in California, representing a substantial share of
 all spending power in this state.
-#### (g)
+#### (h)
 The success of a large-scale legalization program will depend
 significantly upon the coordination of a multiagency, multisector,
 statewide public and private effort to provide undocumented
@@ -98,6 +102,13 @@ all of the following:
 Coordinating an ongoing multiagency, multisector public and
 private effort to provide accurate, accessible information and
 services to new Americans.
+
+New Americans include:
+
+1. Immigrants
+2. Refugees
+3. Asylees
+
 ##### (b)
 Overseeing the creation of a statewide plan for the
 coordination and implementation of any presidential executive action
