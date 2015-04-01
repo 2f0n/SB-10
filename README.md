@@ -1,11 +1,11 @@
 # SB-10
 An act introduced by California Senator Lara relating to immigration
 
-## References
-
 > “Ignoring our immigrant communities is irresponsible and unrealistic, especially for a state that has the largest undocumented population in the country” said Senator Ricardo Lara. “That’s why I’m proposing the creation of the California Office of New Americans which will provide our undocumented population with resources, information, and fraud prevention assistance, helping them better integrate into the economic, social and political fabric of our state.”
 
 * ["Lara Introduces Bill to Establish Office of New Americans"](http://sd33.senate.ca.gov/news/2014-12-01-lara-introduces-bill-establish-california-office-new-americans), from sd33.senate.ca.gov
+
+## Relevant legislation in other jurisdictions
 
 > The functions of the council shall include but not be limited to: (a) advising the governor on policy, planning, and priorities for refugees and immigrants in the commonwealth; (b) assisting the director of the office for refugees and immigrants in coordinating the efforts of all public agencies concerned with services to refugees and immigrants and in promoting the accessibility of all state services; (c) increasing communication, mutual understanding, and willingness to cooperate among community groups and organizations that serve refugees and immigrants; and (d) increasing public understanding of the needs and contributions of refugees and immigrants. The council shall meet at least six times per year.
 
