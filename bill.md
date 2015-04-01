@@ -17,7 +17,7 @@ administered within the Department of Community Services and
 Development, to fund community-based organizations in assisting legal
 permanent residents in obtaining citizenship.
 
-This bill would establish the Office of New Americans in the
+This bill would establish the Office of New Americans and Refugees in the
 Governor's office for the purpose of, among other things,
 coordinating an ongoing multiagency, multisector public and private
 effort to provide information and services to new Americans,
