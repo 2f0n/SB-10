@@ -37,3 +37,9 @@ to accomplish this purpose by emphasizing coordination of services, early employ
 services.
 
 * ["OFFICE FOR REFUGEES AND IMMIGRANTS"](http://www.mass.gov/courts/docs/lawlib/116-130cmr/121cmr2.pdf), from www.mass.gov
+
+* ["Seattle City Council establishes Office of Immigrant and Refugee Affairs"](http://council.seattle.gov/2012/02/06/seattle-city-council-establishes-office-of-immigrant-and-refugee-affairs/), from council.seattle.gov
+
+* ["Creating an Office of Immigrant and Refugee Affairs"](http://clerk.seattle.gov/~scripts/nph-brs.exe?s1=&s3=117394&s4=&s2=&s5=&Sect4=AND&l=20&Sect2=THESON&Sect3=PLURON&Sect5=CBORY&Sect6=HITOFF&d=ORDF&p=1&u=%2F%7Epublic%2Fcbory.htm&r=1&f=G)
+
+* ["ABOUT THE OFFICE OF IMMIGRANT & REFUGEE AFFAIRS"](http://www.seattle.gov/office-of-immigrant-and-refugee-affairs/about)
